@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tourism Puerto Berrio</string>
+    <string name="inicio_berrio">Welcome to Puerto Berrio</string>
+    <string name="princial">Puerto Berrio Antioquia. \n The old swirl Large.</string>
+    <string name="Puerto_berrio">Puerto Berrio tourist</string>
+    <string name="Demo_berrio">Demographics Puerto Berrio</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="demografia">DEMOGRAPHY</string>
+    <string name="hoteles">HOTELS</string>
+    <string name="sitios">TURISTICS SITES</string>
+    <string name="bares">BARS</string>
+    <string name="inicio">HOME</string>
+
+    <string name="Publicidad">You want to know the port where the first car came to Colombia? \n
+    You want to know the monumental bridge that connects Santander with  Antioquia?, \n
+  Come and see the beautiful port town where history prevails, large municipality of Magdalena Medio possessing great tourist sites
+     as the pier, monumental bridge and others surrounded by great people places. wait for you...</string>
+
+
+    <string name="action_settings">Settings</string>
+
+    <string name="Hello_jalisco">Jalisco Bar</string>
+    <string name="Hello_carnaval">Carnaval disco bar</string>
+    <string name="Hello_barra"> La Barra disco bar</string>
+
+    <string name="Hello_malecon">Hotel Malecon</string>
+    <string name="Hello_central">Hotel Central</string>
+    <string name="Hello_dospalmas">Hotel the house of the two palms</string>
+
+    <string name="Hello_muelle">Multimodal spring</string>
+    <string name="Hello_parque">church Nuestra Señora De Los Dolores</string>
+    <string name="Hello_puente">Monumental bridge</string>
+
+    <string name="inf_jalisco">BAR JALISCO: \n address: Cra 1 9th street number 8 \n Puerto Berrío \n   cellphone: 3138977906 </string>
+    <string name="inf_carnaval">DISCOTECA CARNAVAL:\n  Address: Cra 1 between 50th and 51th street 13th corner \n Puerto Berrío \n cellPhone: 3103585160</string>
+    <string name="inf_barra">DISCOTECA LA BARRA \n Address: 2th street La Barra \n Puerto Berrío  \n cellphone: 0348332541</string>
+
+    <string name="inf_muelle">This type of spring is very suitable as it adapts to the conditions
+          changing the Magdalena River, that is, if we are in rainy season the spring rises
+          according to the amount of water that bring the affluent. and if the low spring summer allowing
+          They use throughout the year.</string>
+    <string name="inf_parque">The Church Nuestra Señora De Los Dolores is a Colombian Catholic Church
+         dedicated to the Virgin Mary under the title of Sorrows and belonging to the jurisdiction
+         Church of the Diocese of Barrancabermeja, 1 is, although located in Antioquia,
+         It is part of the Ecclesiastical Province of Bucaramanga.</string>
+    <string name="inf_puente">In 1874, when even the municipality of Puerto Berrio was considered
+          as village "Swirl Great," the engineer Francisco Javier Cisneros, builder
+          Ferrocarril de Antioquia, saw this port as a future railway terminal would
+          direct connection to the city of Medellin. 1956, being the governor of Antioquia Mr.
+          Ignacio Velez Escobar, began the construction of a bridge was given in order to join the network
+          Eastern and Western railway in the country, this would be called "Monumental". </string>
+
+
+
+    <string name="inf_malecon">Company Information Hostal Malecon:\n address: Cr 151-27 \n City: Puerto Berrío \n
+  Region: Antioquia \n country: Colombia \n phone: (4) 833-2343 \n rooms from $60.000. \nsingle bed, double bed, bath, jacuzzi.\n
+   Web site http://www.pinturasdeoccidente.com</string>
+    <string name="inf_central">HOTEL CENTRAL DE PUERTO BERRIO: \n Category: establishment of Lodging and Accommodation \n
+Subcategory: Hotel \n region: Antioquia \n city:  Puerto Berrio \n address: Cra 4 51 street corner \n
+phone: 8332969 \n E-mail:   milebtos@gmail.com \n Cellphone:3104160651 \n Number of employees:4 \n Númber of rooms:   26 \n
+Númber of beds: 33</string>
+    <string name="inf_dospalmas">Hotel the house of the two palms \n address: Cr9 2th street \n  City: Puerto Berrío \n
+  Región: Antioquia \n  country: Colombia \n  phone: (4) 833-3339 \n  Web site http://www.palimpalem.com/1/hotelasexta/index.html</string>
+
+
+
+     <string name="demografia_berrio">Total population: 46,883 inhabitants.\n Urban Population: 42,084 \n Rural Population: 4,799 \n
+Literacy: 85.8 Percent  \nDistrict: 87.3 Percent \n Rural zone: 75.0 Percent \n According to figures presented by the DANE of census 2005,
+          ethnographic composition of the municipality is:: \n
+mestizos and whites: 86.9 Percent \n Afrocolombianos: 12.9 Percent \n Indigenous: 0.2 Percent </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_splash">Welcome to Puerto Berrio</string>
+
+</resources>

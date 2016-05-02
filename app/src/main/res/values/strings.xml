@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Turismo En Puerto Berrio</string>
+    <string name="inicio_berrio">Bienvenidos al Municipio de Puerto Berrio</string>
+    <string name="princial">Puerto Berrio Antioquia. \n La antiagua remolino Grande.</string>
+    <string name="Puerto_berrio">Puerto Berrio Turistica</string>
+    <string name="Demo_berrio">Demografía De Puerto Berrio</string>
+
+    <string name="demografia">DEMOGRAFIA</string>
+    <string name="hoteles">HOTELES</string>
+    <string name="sitios">SITIOS TURISTICOS</string>
+    <string name="bares">BARESa</string>
+    <string name="inicio">INICIO</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="Publicidad">Deseas conocer el puerto por donde entró el primer carro a colombia? \n
+    Desea conocer el puente monumental que comunica a Antioquia con Santander?, \n
+    Ven y conoce al hermoso pueblo porteño donde la historia prevalece, gran municipio del magdalena medio que posee de grandes sitios turisticos
+    como el muelle, puente monumental y otros sitios mas rodeados de grandes personas. Te esperamos...</string>
+
+
+    <string name="action_settings">Settings</string>
+
+    <string name="Hello_jalisco">Bar Jalisco</string>
+    <string name="Hello_carnaval">Discoteca Bar Carnaval</string>
+    <string name="Hello_barra">Discoteca La Barra</string>
+
+    <string name="Hello_malecon">Hotel Malecon</string>
+    <string name="Hello_central">Hotel Central</string>
+    <string name="Hello_dospalmas">Hotel la Casa De Las Dos Palmas</string>
+
+    <string name="Hello_muelle">Muelle Multimodal</string>
+    <string name="Hello_parque">Iglesia Nuestra Señora De Los Dolores</string>
+    <string name="Hello_puente">Puente Monumental</string>
+
+    <string name="inf_jalisco">BAR JALISCO: \n Dirección: Carrera 1 Calle 9-8 \n Puerto Berrío \n 50\n  Teléfono: 3138977906 </string>
+    <string name="inf_carnaval">DISCOTECA CARNAVAL:\n  Dirreción: Crr 1 Entre Calle 50 Y 51 13 Esquina \n Puerto Berrío \n Teléfono: 3103585160</string>
+    <string name="inf_barra">DISCOTECA LA BARRA \n DIRECCIÓN: Calle 2 La Barra \n Puerto Berrío  \n Teléfono: 0348332541</string>
+
+    <string name="inf_muelle">Este tipo de muelle es muy adecuado ya que se adapta a las condiciones
+         cambiantes del Río Magdalena, es decir, si estamos en época de lluvias el muelle se eleva de
+         acuerdo a la cantidad de agua que el afluente traiga. y si es verano el muelle baja permitiendo
+         su uso en todo el año. </string>
+    <string name="inf_parque">La Iglesia de Nuestra Señora de los Dolores es una iglesia católica colombiana
+        dedicada a la Virgen María bajo la advocación de los Dolores y perteneciente a la jurisdicción
+        eclesiástica de la Diócesis de Barrancabermeja,1 es decir, que si bien se encuentra en Antioquia,
+        hace parte de la Provincia Eclesiástica de Bucaramanga. </string>
+    <string name="inf_puente">En 1874, cuando aún el municipio de Puerto Berrío era considerado
+         como caserío “Remolino Grande”, el ingeniero Francisco Javier Cisneros, constructor del
+         Ferrocarril de Antioquia, vio este puerto como una futura terminal ferroviaria que tendría
+         conexión directa con la ciudad de Medellín. 1956, siendo el gobernador de Antioquia el señor
+         Ignacio Vélez Escobar, se dio inicio a la construcción de un puente con el fin de unir las redes
+         ferroviarias oriental y occidental del país, este llevaría el nombre de “Monumental”. </string>
+
+
+
+    <string name="inf_malecon">>Información de la Empresa Hostal Malecon:\n Dirección: Cr 151-27 \n Ciudad: Puerto Berrío \n
+  Región: Antioquia \n País: Colombia \n Teléfono: (4) 833-2343 \n Habitaciones desde $60.000. \n Cama sencilla, cama doble, bañera, jacuzzi.\n
+  Página Web http://www.pinturasdeoccidente.com</string>
+    <string name="inf_central">HOTEL CENTRAL DE PUERTO BERRIO: \n Categoría: stablecimiento de Alojamiento y Hospedaje \n
+Subcategoría: Hotel \n Departamento: Antioquia \n Ciudad o Municipio:  Puerto Berrio \n Dirección: Cra 4 Calle 51 esquina \n
+Telefóno: 8332969 \n E-mail:   milebtos@gmail.com \n Celular:3104160651 \n Número de empleados:4 \n Número de habitaciones:   26 \n
+Número de camas: 33</string>
+    <string name="inf_dospalmas">Hotel La Casa De Las Dos Palmas \n Dirección: Cr9 Calle 2 \n  Ciudad: Puerto Berrío \n
+  Región: Antioquia \n  País: Colombia \n  Teléfono: (4) 833-3339 \n Página Web http://www.palimpalem.com/1/hotelasexta/index.html</string>
+
+
+
+     <string name="demografia_berrio">Población Total: 46.883 habitantes.\n Población Urbana: 42.084 \n Población Rural: 4.799 \n
+Alfabetismo: 85.8 Porciento  \n Zona urbana: 87.3 Porciento \n Zona rural: 75.0 Porciento \n Según las cifras presentadas por el DANE del censo 2005, la composición etnográfica del municipio es: \n
+Mestizos y blancos: 86,9 Porciento \n Afrocolombianos: 12,9 Porciento \n Indígena: 0,2 Porciento </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_splash">Bienvenido a Puerto Berrio</string>
+</resources>
