@@ -27,6 +27,13 @@
             android:layout_height="wrap_content"
             android:text="@string/inf_parque"
             android:textColor="@color/maroon"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/mapa_parque"
+            android:layout_gravity="center"
+            android:text="@string/ubicación"
+            android:onClick="mapa_parques"/>
 
     </LinearLayout>
 </ScrollView>

@@ -115,4 +115,49 @@ public class MainActivity extends AppCompatActivity
         drawer.closeDrawer(GravityCompat.START);
         return true;
     }
+
+
+
+    public void mapa_parques (View v){
+        Intent i=new Intent(this,Maps_parque.class);
+        startActivity(i);
+    }
+    public void mapa_muelles (View v){
+        Intent i=new Intent(this,MapsMuelle.class);
+        startActivity(i);
+    }
+    public void mapa_puentes (View v){
+        Intent i=new Intent(this,Maps_puente.class);
+        startActivity(i);
+    }
+    public void mapa_carnavals (View v){
+        Intent i=new Intent(this,Maps_carnaval.class);
+        startActivity(i);
+    }
+    public void mapa_barras (View v){
+        Intent i=new Intent(this,Maps_barra.class);
+        startActivity(i);
+    }
+    public void mapa_jaliscos (View v){
+        Intent i=new Intent(this,Maps_jalisco.class);
+        startActivity(i);
+    }
+    public void mapa_berrio (View v){
+        Intent i=new Intent(this,Maps_PuertoBerrio.class);
+        startActivity(i);
+    }
+    public void mapa_centrals (View v){
+        Intent i=new Intent(this,Maps_central.class);
+        startActivity(i);
+    }
+    public void mapa_malecones (View v){
+        Intent i=new Intent(this,Maps_malecon.class);
+        startActivity(i);
+    }
+    public void mapa_palmas (View v){
+        Intent i=new Intent(this,Maps_palmas.class);
+        startActivity(i);
+    }
+
+
 }
